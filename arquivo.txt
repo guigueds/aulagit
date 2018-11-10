@@ -1,6 +1,8 @@
 Primeira linha  do arquivo ++++
-Alteração que aconteceu na --- branch dev
-Outra alteração do arquivo...
-Alteração na branch dev
+AlteraÃ§Ã£o que aconteceu na --- branch dev
+Outra alteraÃ§Ã£o do arquivo...
+AlteraÃ§Ã£o na branch dev
 
 commit exemplo para o remote
+
+commit pelo remote
