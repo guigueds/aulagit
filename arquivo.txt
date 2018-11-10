@@ -1,2 +1,4 @@
 Primeira linha  do arquivo ++++
 Alteração que aconteceu na --- branch dev
+Outra alteração do arquivo...
+Alteração na branch dev
