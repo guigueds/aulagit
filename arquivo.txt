@@ -3,3 +3,5 @@ Primeira linha  do arquivo
 Outra alteração do arquivo
 
 Alteração para ser mantida no RESET
+
+Alteração para stash
